@@ -8,3 +8,5 @@
 - Se precisar de ajuda em algo, estou sempre disposto a ajudar na medida do possível.
 
 
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
