@@ -6,7 +6,3 @@
 - Por enquanto estou apenas em aprendizado, mas em breve irei começar meus próprios projetos.
 - Jogo, assisto animações em geral, desenho e escrevo uns textos por aí no meu tempo livre.
 - Se precisar de ajuda em algo, estou sempre disposto a ajudar na medida do possível.
-
-
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
